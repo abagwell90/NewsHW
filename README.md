@@ -1,6 +1,6 @@
 Andrew J Bagwell News Scraping APP
 
-Here is a link to live app: 
+Here is a link to live app: https://blooming-lowlands-96925.herokuapp.com/
 
 What the project does?:
 
@@ -9,6 +9,7 @@ This web app scrapes news articles that relate to coding and development and dis
 Here's how the app works?:
 
 My News Sraping app works by using Handlebars for structure and layout, also uses cheerio for web scraping, and lastly node and axios. 
+Also has some nice dynamic changing css colors on front end of app.
 
 Why the project is useful?:
 

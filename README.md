@@ -1,6 +1,6 @@
 Andrew J Bagwell News Scraping APP
 
-Here is a link to live app: https://blooming-lowlands-96925.herokuapp.com/
+Here is a link to live app: https://cool-dev-news.herokuapp.com/
 
 What the project does?:
 

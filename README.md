@@ -13,7 +13,7 @@ Also has some nice dynamic changing css colors on front end of app.
 
 Why the project is useful?:
 
-Incorporates skillsets in HTML, CSS, JavaScript, Bootstrap, MySQL, Node, Express, Handlebars, Cheerio, axios and deploying to Heroku.
+Incorporates skillsets in HTML, CSS, JavaScript, jQuery, Node, Bootstrap, Express, Express-handlebars, Mongoose, Cheerio, Axios, and use of Heroku. 
 
 Who maintains and contributes to the project?:
 
